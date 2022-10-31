@@ -1,0 +1,42 @@
+[
+    {
+        "id" : "1",
+        "sesion" : "Sistemas Web con Laravel 8 #1",
+        "title" : "Introducción y configuración del entorno de trabajo",
+        "url": "https://www.youtube.com/embed/qlDyy12xgWg",
+        "description" : {
+            "subtitle" : "En esta sección aprenderemos",
+            "text": "Introducción a PHP y el framework Laravel para desarrollo Backend. Ventajas de Laravel frente a otros frameworks o librerías. Instalaciones de paquetación recomendable en Visual Studio Code. Laragon. Configuraciones iniciales para los proyectos."
+        }
+    },
+    {
+        "id" : "2",
+        "sesion" : "Sistemas Web con Laravel 8 #2",
+        "title" : "Empezando a trabajar con laravel",
+        "url": "https://www.youtube.com/embed/oIE6EQD0WPs",
+        "description" : {
+            "subtitle" : "En esta sección aprenderemos",
+            "text": "Autentificación en Laravel. Integración con la interfaz (front-end). Modelos de backend."
+        }
+    },
+    {
+        "id" : "3",
+        "sesion" : "Sistemas Web con Laravel 8 #3",
+        "title" : "Auth y Personalización",
+        "url": "https://www.youtube.com/embed/TJw7n09LJb0",
+        "description" : {
+            "subtitle" : "En esta sección aprenderemos",
+            "text": "Manejo de los modelos. Template de bootstrap para Laravel. Autentificación y personalización del proyecto"
+        }
+    },
+    {
+        "id" : "4",
+        "sesion" : "Sistemas Web con Laravel 8 #4",
+        "title" : "Gestión de tablas CRUDs",
+        "url": "https://www.youtube.com/embed/xg-PNcuUJf8",
+        "description" : {
+            "subtitle" : "En esta sección aprenderemos",
+            "text": "Creación de aplicación CRUD en Laravel. Métodos del protocolo HTTP para comunicaciones cliente servidor"
+        }
+    }
+]

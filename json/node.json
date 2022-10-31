@@ -1,0 +1,52 @@
+[
+    {
+        "id" : "1",
+        "sesion" : "NodeJS #1",
+        "title" : "Introducción",
+        "url": "https://www.youtube.com/embed/S2EewKMav6k",
+        "description" : {
+            "subtitle" : "En esta sección aprenderemos",
+            "text": "¿Qué es NodeJs?. ¿Qué relación guarda con JavaScript?.Los proyectos que se están realizando en la actualidad haciendo uso de NodeJs.Los estándares modernos de programación en este entorno de ejecución. Los stack existentes para realizar proyectos."
+        }
+    },
+    {
+        "id" : "2",
+        "sesion" : "NodeJS #2",
+        "title" : "Express + GraphQL",
+        "url": "https://www.youtube.com/embed/9TfzUX_vYN8",
+        "description" : {
+            "subtitle" : "En esta sección aprenderemos",
+            "text": "Levantamiento de un servidor web con NodeJs. Uso de Express para crear servidores web. Modelo REST. Peticiones GET en HTTP"
+        }
+    },
+    {
+        "id" : "3",
+        "sesion" : "NodeJS #3",
+        "title" : "NodeJS + MongoDB",
+        "url": "https://www.youtube.com/embed/c2lQbySa2jU",
+        "description" : {
+            "subtitle" : "En esta sección aprenderemos",
+            "text": "MongoDB como motor de bases de datos no relacionales. Documentos y Colecciones en las bases de datos. "
+        }
+    },
+    {
+        "id" : "4",
+        "sesion" : "NodeJS #4",
+        "title" : "CRUD: NodeJS + MongoDB",
+        "url": "https://www.youtube.com/embed/szWlLO5tq64",
+        "description" : {
+            "subtitle" : "En esta sección aprenderemos",
+            "text": "Creación de una API REST. Create, Read, Update & Delete"
+        }
+    },
+    {
+        "id" : "5",
+        "sesion" : "NodeJS #5",
+        "title" : "Proyecto Final",
+        "url": "https://www.youtube.com/embed/_X9ahDBIrK8",
+        "description" : {
+            "subtitle" : "En esta sección aprenderemos",
+            "text": "Proyecto de integración usando lo aprendido en el curso"
+        }
+    }
+]

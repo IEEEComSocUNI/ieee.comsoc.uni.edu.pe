@@ -1,0 +1,32 @@
+[
+    {
+        "id" : "1",
+        "sesion" : "Fundamentos de Redes #1",
+        "title" : "Conceptos fundamentales",
+        "url": "https://www.youtube.com/embed/ZOQYZEPKrJg",
+        "description" : {
+            "subtitle" : "En esta sección aprenderemos",
+            "text": "Introducción a las certificaciones CISCO en networking. Conceptos preliminares de direccionamiento IP. Modelo de capas OSI y TCP/IP."
+        }
+    },
+    {
+        "id" : "2",
+        "sesion" : "Fundamentos de Redes #2",
+        "title" : "Modelos: de Protocolo y de Referencia",
+        "url": "https://www.youtube.com/embed/w-SGjd48a4s",
+        "description" : {
+            "subtitle" : "En esta sección aprenderemos",
+            "text": "Topologpias de Red. Redes LAN, WAN y MAN. Protocoloes básicos de redes. Estructura de los protocolos TCP e IP"
+        }
+    },
+    {
+        "id" : "3",
+        "sesion" : "Fundamentos de Redes #3",
+        "title" : "Implementación de proyectos: Cisco Packet Tracer",
+        "url": "https://www.youtube.com/embed/_lskyaOG7hM",
+        "description" : {
+            "subtitle" : "En esta sección aprenderemos",
+            "text": "Novedades de la nueva versión de Cisco Packet Tracer. Equipos comunmente usados en las simulaciones y la vida real. Análsiis de redes con wireshark"
+        }
+    }
+]

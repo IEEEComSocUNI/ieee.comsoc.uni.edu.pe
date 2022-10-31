@@ -1,0 +1,66 @@
+/* animaçoes */
+@keyframes up {
+  from {
+    opacity: 0;
+    transform: translateY(16px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes right {
+  from {
+    transform: translateX(-100%);
+  }
+
+  to {
+    transform: translateX(0);
+  }
+}
+
+@keyframes appear {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.animate-up {
+  animation-name: up;
+  animation-duration: 300ms;
+  animation-fill-mode: backwards;
+}
+
+.animate-right {
+  animation-name: right;
+  animation-duration: 300ms;
+}
+
+.animate-appear {
+  animation-name: appear;
+  animation-duration: 300ms;
+  animation-fill-mode: backwards;
+}
+
+/* Loader */
+
+#preloader {
+  background: #0e152f url(./../images/logo-comsoc-uni.png) no-repeat center
+    center;
+  background-size: 15%;
+  height: 100vh;
+  width: 100%;
+  position: fixed;
+  z-index: 100;
+}
+
+@media only screen and (max-width: 700px) {
+  #preloader {
+    background-size: 28%;
+  }
+}
